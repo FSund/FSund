@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsund&hide_progress=false&layout=compact)
+![Top Langs](./profile/top-langs.svg)
 
 
 <!--
